@@ -3,7 +3,7 @@
 Meu nome é Anderson R.
 
 - Sou um aspirante à programador
-- Estou me desenvolvendo da linguagem JavaScript e outras linguagens
+- Estou me desenvolvendo na linguagem JavaScript e outras linguagens
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Pode entrar em contato comigo 📫
