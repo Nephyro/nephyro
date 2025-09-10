@@ -1,6 +1,6 @@
 ### Bienvenuen a mi profilum 💙
 
-Meu nome é Anderson R.
+Meu nome é Anderson Ribeiro
 
 - Sou um aspirante à programador cursando SENAI
 - Estou me desenvolvendo na linguagem Java e outras linguagens
