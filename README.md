@@ -1,4 +1,4 @@
-### Bienvenuen a mi profilum 💙
+### Bienvenue a mi profilum 💙
 
 Meu nome é Anderson Ribeiro
 
