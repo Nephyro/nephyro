@@ -10,6 +10,8 @@ Meu nome é Anderson Ribeiro
 
 ### Pode entrar em contato comigo 📫
 
-```anderson.soares.4245@gmail.com```
+```
+anderson.soares.4245@gmail.com
+```
 
 ![](https://media.tenor.com/-2vsE-CfLZcAAAAM/berserk.gif)
