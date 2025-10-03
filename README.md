@@ -1,4 +1,4 @@
-### Bienvenue a mi profilum 💙
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=480&height=35&lines=print(+%22Hi+Devs!+Welcome+to+my+Git+Hub%22))](https://git.io/typing-svg)
 
 Meu nome é Anderson Ribeiro
 
