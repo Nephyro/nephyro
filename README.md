@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=480&height=35&lines=print(+%22Hi+Devs!+Welcome+to+my+Git+Hub%22))](https://git.io/typing-svg)
 
-Meu nome é Anderson Ribeiro
+# Opa Devs!
+
+Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento de sistemas, atualmente estou me aprofundando nos conhecimentos de programação básica.
+
+---
 
 ```
 - Sou um aspirante à programador cursando SENAI
@@ -14,4 +18,8 @@ Meu nome é Anderson Ribeiro
 anderson.soares.4245@gmail.com
 ```
 
+<div align="center">
+  
 ![](https://media.tenor.com/-2vsE-CfLZcAAAAM/berserk.gif)
+
+</div>
