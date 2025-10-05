@@ -49,7 +49,7 @@ Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvime
 
 ---
 
-# 📈 Estatisticas
+# 📈 Xp adquirido
 
 <div align="center">
   <a href="https://https://github.com/Nephyro">
