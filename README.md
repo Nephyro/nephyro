@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=490&height=40&lines=print+(%22Hi+Devs!+Welcome+to+my+Git+Hub!%22))](https://git.io/typing-svg)
 
-# Opa Devs!
+# ✌️ Opa Devs!
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -26,6 +26,8 @@
 
 ```
 
+<img align="right" alt="lain" src="lain.png" width="120" />
+
 Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento de sistemas, atualmente estou me aprofundando nos conhecimentos de programação básica.
 
 ---
@@ -36,11 +38,21 @@ Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvime
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ```
 
-# Estatisticas
+# 💻 Socials
+<br>
+  <div align="center">
+    <a href="https://www.instagram.com/ander_wave" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href="https://discord.gg/701607191454416947" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a>
+    <a href = "mailto:anderson.soares.4245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+  </div>
+<br>
+
+# 📈 Estatisticas
 <div align="center">
   <a href="https://https://github.com/Nephyro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nephyro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nephyro&layout=compact&langs_count=7&theme=dark"/>
+    <img height="141em" src="https://github-readme-stats.vercel.app/api?username=nephyro&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+    <img height="141em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nephyro&theme=neon"/>
+    <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nephyro&layout=compact&langs_count=7&theme=neon"/>
 </div>
 
 ### Pode entrar em contato comigo 📫
@@ -55,6 +67,4 @@ anderson.soares.4245@gmail.com
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-   <img src="https://share.text-image.com/98727a245fef7988"/>
-</div>
+
