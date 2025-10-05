@@ -54,9 +54,3 @@ anderson.soares.4245@gmail.com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  
-![](https://media.tenor.com/-2vsE-CfLZcAAAAM/berserk.gif)
-
-</div>
