@@ -72,4 +72,6 @@ anderson.soares.4245@gmail.com
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+<p align="center"><i> Thanks for visiting ! 😎 </i></p>
 
