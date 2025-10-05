@@ -47,13 +47,18 @@ Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvime
   </div>
 <br>
 
+---
+
 # 📈 Estatisticas
+
 <div align="center">
   <a href="https://https://github.com/Nephyro">
     <img height="141em" src="https://github-readme-stats.vercel.app/api?username=nephyro&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
     <img height="141em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nephyro&theme=neon"/>
     <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nephyro&layout=compact&langs_count=7&theme=neon"/>
 </div>
+
+---
 
 ### Pode entrar em contato comigo 📫
 
