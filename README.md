@@ -75,7 +75,7 @@ anderson.soares.4245@gmail.com
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=print+(%22Thanks+for+visiting+S2%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print+(%22Thanks+for+visiting+S2%22);print+(%22Ending+program...%22);print+(%22Goodbye+World!%22))](https://git.io/typing-svg)
 
 </div>
 
