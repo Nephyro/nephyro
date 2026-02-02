@@ -26,7 +26,7 @@
 
 ```
 
-<img align="right" alt="lain" src="lain.png" width="120" />
+<img align="right" alt="lain" src="img/lain.png" width="120" />
 
 Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento de sistemas, atualmente estou me aprofundando nos conhecimentos de programação básica.
 
