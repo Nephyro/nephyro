@@ -34,7 +34,7 @@ Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvime
 
 ```
 - Sou um aspirante à programador cursando SENAI
-- Estou me desenvolvendo na linguagem Java e outras linguagens
+- Estou me desenvolvendo para a área de back-end/banco de dados
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ```
 
@@ -60,10 +60,12 @@ Meu nome é Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvime
 
 ---
 
-### Pode entrar em contato comigo 📫
+### Meu e-mail corporativo 📫
 
 ```
-anderson.soares.4245@gmail.com
+
+Obs: Adicionar futuramente 🚧
+
 ```
 <br>
 <picture>
@@ -72,10 +74,8 @@ anderson.soares.4245@gmail.com
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
 </picture>
 
+</br>
+
 <br>
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=print+(%22Thanks+for+visiting+S2%22);print+(%22Ending+program...%22);print+(%22Goodbye+World!%22))](https://git.io/typing-svg)
-
-</div>
-
