@@ -10,19 +10,6 @@ Me chamo Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento
 
 <br>
 
-
-<h3 align="center">Socials</h3>
-
-<br>
-  <div align="center">
-    <a href="https://www.instagram.com/ander_wave" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
-    <a href="https://discord.gg/701607191454416947" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a>
-    <a href = "mailto:anderson.soares.4245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
-  </div>
-
----
-<br>
-
 ## Brightest stars
 
 <p align="center">
@@ -56,7 +43,18 @@ Me chamo Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento
 ---
 <br>
 
+<h3 align="center">Socials</h3>
+
+  <div align="center">
+    <a href="https://www.instagram.com/ander_wave" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href="https://discord.gg/701607191454416947" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a>
+    <a href = "mailto:anderson.soares.4245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+  </div>
+
+---
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nephyro/Nephyro/output/pacman-contribution-graph.svg">
