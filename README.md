@@ -37,7 +37,7 @@ Me chamo Anderson Ribeiro Soares, sou um aluno do Senai cursando desenvolvimento
 ## The city I built this year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=nephyro&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173091699%3Fu%3Daaf3a612c33d848b237bf8e00d6aafbbdf80981e%26v%3D4" alt="nephyro city visual" />
+  <img src="https://www.gitskins.com/api/section/city?username=nephyro&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173091699%3Fu%3Daaf3a612c33d848b237bf8e00d6aafbbdf80981e%26v%3D4" alt="nephyro city visual" />
 </p>
 
 ---
